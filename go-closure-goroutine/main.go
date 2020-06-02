@@ -8,6 +8,12 @@ func main() {
 	done3 := make(chan bool)
 
 	values := []string{"a", "b", "c"}
+
+	for _, v := range values {
+		// normal loop
+		fmt.Println(v)
+	}
+
 	for _, v := range values {
 		go func() {
 			// this will log out c c c instead of a b c
