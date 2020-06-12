@@ -7,3 +7,6 @@
 [submodule "go-colly"]
 	path = go-colly
 	url = git@github.com:rikisan1993/go-colly-exercise.git
+[submodule "go-worker-pool"]
+	path = go-worker-pool
+	url = git@github.com:rikisan1993/go-worker-pool-pattern.git
