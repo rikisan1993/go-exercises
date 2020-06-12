@@ -4,3 +4,6 @@
 [submodule "go-nick-jackson-microservices"]
 	path = go-nick-jackson-microservices
 	url = git@github.com:rikisan1993/go-nic-jackson-microservices.git
+[submodule "go-colly"]
+	path = go-colly
+	url = git@github.com:rikisan1993/go-colly-exercise.git
