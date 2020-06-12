@@ -1,4 +1,4 @@
-[submodule "go-closure-goroutine"]
+[submodule "go-goroutine-closure-exercise"]
 	path = go-closure-goroutine
 	url = git@github.com:rikisan1993/go-goroutine-closure-exercise.git
 [submodule "go-nick-jackson-microservices"]
